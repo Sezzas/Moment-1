@@ -12,3 +12,8 @@ Det här är ett remote repository som har skapats som ett test för Moment 1 i 
 
 ## Program & hjälpmedel
 För att slutföra uppgiften har vi använt Github, Mittuniversitetets resurser och kommandotolken.
+
+# Klona till din dator
+För att klona detta repository till din dator använder du kommandot *git clone* i kommandotolken tillsammans med länken du hittar här på Github.
+
+`git clone https://github.com/Sezzas/Moment-1.git`
