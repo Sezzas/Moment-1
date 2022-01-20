@@ -1,4 +1,4 @@
-# Moment-1
+# Moment 1
 Det här är ett remote repository som har skapats som ett test för Moment 1 i kursen Webbutveckling II.
 
 **I denna uppgift har vi lärt oss:**
